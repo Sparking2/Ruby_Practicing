@@ -5,6 +5,7 @@ module GameChecker
     end
 end
 
+
 class GameManager
     
     include GameChecker
